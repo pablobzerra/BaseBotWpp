@@ -4,12 +4,6 @@ import { connect } from "./connect-bot"
 //Admins
 var Admins = []
 
-
-//Config sala
-var sala_config = {};
-var sala_bo = {};
-var max_player = {};
-
 var bo = {};
 export default async () => {
     //Iniciar Conexao
